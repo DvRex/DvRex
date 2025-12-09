@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>🌱 I’m currently learning Flutter And Cyber Security<br>
+🌱 I’m currently learning Flutter And Cyber Security<br>
 
 
 ## 🌐 Socials:
