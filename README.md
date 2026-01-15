@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Flutter And Cyber Security<br>
+💻 Python | Java | Flutter | Cyber Security 🎓 Undergraduate Student @ Institut Teknologi Dan Bisnis Nobel Indonesia br>
 
 
 ## 🌐 Socials:
