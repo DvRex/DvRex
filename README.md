@@ -1,6 +1,13 @@
 # 💫 About Me:
 💻 Python | Java | Flutter | Cyber Security 🎓 Undergraduate Student @ Institut Teknologi Dan Bisnis Nobel Indonesia br>
 
+Here are my featured projects:
+
+🚀 **[Simulasi Antrian Bus ](https://simulasi-antrian-bus-monte-carlo.streamlit.app/)**
+Sebuah Decision Support System menggunakan metode Monte Carlo.
+
+📱 **[Health Scan](https://health-scan-web.vercel.app)**
+Aplikasi Pemeriksaan Kesehatan Mandiri
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akbrsaputraaa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dvrexxx) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/DvRexGG) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DvRex6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akbarsptraaa@gmail.com) 
