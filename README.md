@@ -1,5 +1,7 @@
 # 💫 About Me:
-💻 Python | Java | Flutter | Cyber Security 🎓 Undergraduate Student @ Institut Teknologi Dan Bisnis Nobel Indonesia <br>
+💻 Python | Java | Flutter | Cyber Security 
+
+🎓 Undergraduate Student @ Institut Teknologi Dan Bisnis Nobel Indonesia <br>
 
 Here are my featured projects:
 
